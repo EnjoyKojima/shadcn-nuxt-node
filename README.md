@@ -9,3 +9,8 @@ docker-compose up -d
 ```sh
 npm run dev
 ```
+
+## アクセス
+```sh
+http://localhost:3000/
+```

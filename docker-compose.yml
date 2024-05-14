@@ -9,5 +9,3 @@ services:
       - .:/app
     tty: true
     stdin_open: true
-    extra_hosts:
-      - "nuxt-shadcn-node.localhost:127.0.0.1"
