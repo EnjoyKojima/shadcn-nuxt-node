@@ -1,5 +1,7 @@
 # Start Generation Here
-FROM node:latest
+# Start of Selection
+FROM node:lts
+# End of Selection
 
 # Set the working directory
 WORKDIR /app
